@@ -249,6 +249,8 @@ Deploy your own BentoPDF instance with one click:
 
 These free hosting services will automatically build and deploy BentoPDF for you. No setup required!
 
+📖 **New to deploying?** Check out our [Quick Deployment Guide](DEPLOYMENT-GUIDE.md) for step-by-step instructions.
+
 ---
 
 You can also run BentoPDF locally for development or personal use.
