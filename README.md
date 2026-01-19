@@ -239,7 +239,21 @@ Want to help translate BentoPDF into your language? Check out our [Translation G
 
 ## 🚀 Getting Started
 
-You can run BentoPDF locally for development or personal use.
+### 🌐 Deploy as a Webpage (Easiest Option)
+
+Deploy your own BentoPDF instance with one click:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/alam00000/bentopdf&project-name=bentopdf&repository-name=bentopdf)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/alam00000/bentopdf)
+[![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/K4AU2B)
+
+These free hosting services will automatically build and deploy BentoPDF for you. No setup required!
+
+📖 **New to deploying?** Check out our [Quick Deployment Guide](DEPLOYMENT-GUIDE.md) for step-by-step instructions.
+
+---
+
+You can also run BentoPDF locally for development or personal use.
 
 ### Prerequisites
 
@@ -248,8 +262,6 @@ You can run BentoPDF locally for development or personal use.
 - [Docker](https://www.docker.com/) & [Docker Compose](https://docs.docker.com/compose/install/) (for containerized setup)
 
 ### 🚀 Quick Start with Docker
-
-[![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/K4AU2B)
 
 You can run BentoPDF directly from Docker Hub or GitHub Container Registry without cloning the repository:
 
@@ -274,7 +286,14 @@ This is the fastest way to try BentoPDF without setting up a development environ
 
 ### Static Hosting using Netlify, Vercel, and GitHub Pages
 
-It is very straightforward to host your own instance of BentoPDF using a static web page hosting service. Plus, services such as Netlify, Vercel, and GitHub Pages all offer a free tier for getting started. See [Static Hosting](https://github.com/alam00000/bentopdf/blob/main/STATIC-HOSTING.md)) for details.
+It is very straightforward to host your own instance of BentoPDF using a static web page hosting service. Plus, services such as Netlify, Vercel, and GitHub Pages all offer a free tier for getting started.
+
+**One-Click Deploy:**
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/alam00000/bentopdf&project-name=bentopdf&repository-name=bentopdf)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/alam00000/bentopdf)
+
+For more detailed instructions, see [Static Hosting Guide](https://github.com/alam00000/bentopdf/blob/main/STATIC-HOSTING.md).
 
 ### 🏠 Self-Hosting Locally
 
